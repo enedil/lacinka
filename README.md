@@ -2,17 +2,17 @@
 
 Belarusian Latin alphabet keyboard layout for Windows and Mac. The layout was based on the Belarusian (Latin) keyboard available in various Linux distributions.
 
-# Layout preview
+## Layout preview
 
 ![Layout preview][layout-preview]
 
-# Installation
+## Installation
 
-## Automatic
+### Automatic
 
 Go to the [releases section][releases] of this repository and download the package for your operating system.
 
-## Manual
+### Manual
 
 **macOS:**
 
@@ -32,7 +32,7 @@ Alternatively, you can use the `.dmg` file provided in the releases section of t
 5. Skip the layout verification warning messages.
 6. Go to the build directory and run `setup.exe` from there.
 
-# Contributing
+## Contributing
 
 Use [Ukelele][ukelele] on macOS and [Microsoft Keyboard Layout Creator][msklc] on Windows to edit the source files.
 
