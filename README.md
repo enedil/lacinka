@@ -1,6 +1,6 @@
 # lacinka
 
-Belarusian Latin alphabet keyboard layout for Windows and Mac. The layout was based on the Belarusian (Latin) keyboard available in various Linux distributions.
+Belarusian Latin keyboard layout for Windows and Mac. The layout is based on the Belarusian (Latin) keyboard available in various Linux distributions.
 
 ## Layout preview
 
