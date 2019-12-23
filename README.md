@@ -21,8 +21,6 @@ Go to the [releases section][releases] of this repository and download the packa
 3. Restart your Mac.
 4. Open keyboard settings and add "Belarusian (Latin)" on the "Input Sources" tab.
 
-Alternatively, you can use the `.dmg` file provided in the releases section of this repository.
-
 **Windows:**
 
 1. Clone this repository.
