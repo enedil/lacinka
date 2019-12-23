@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.3.0.249 on 2019-12-18 at 10:54 (GMT+6)-->
+<!--Last edited by Ukelele version 3.3.0.249 on 2019-12-23 at 11:01 (GMT+6)-->
 <keyboard group="126" id="-18384" name="Belarusian (Latin)" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -410,7 +410,7 @@
             <key code="37" output="ł"/>
             <key code="38" output="∆"/>
             <key code="39" output="æ"/>
-            <key code="40" output="˚"/>
+            <key code="40" output="ĺ"/>
             <key code="41" output="…"/>
             <key code="42" output="«"/>
             <key code="43" output="≤"/>
@@ -519,7 +519,7 @@
             <key code="37" output="Ł"/>
             <key code="38" output="Ô"/>
             <key code="39" output="Æ"/>
-            <key code="40" output=""/>
+            <key code="40" output="Ĺ"/>
             <key code="41" output="Ú"/>
             <key code="42" output="»"/>
             <key code="43" output="¯"/>
