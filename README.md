@@ -1,6 +1,6 @@
 # lacinka
 
-Belarusian Latin keyboard layout for Windows and Mac. The layout is based on the Belarusian (Latin) keyboard available in various Linux distributions.
+Belarusian Latin keyboard layout for Windows and Mac. The layout is based on the US-english with the adiotion of the belarusian and polish letters enabling a user to type in 3 languages without switching the layout. It is suppoised to replace the english layout in your system.
 
 ## Layout preview
 
@@ -35,7 +35,7 @@ Go to the [releases section][releases] of this repository and download the packa
 Use [Ukelele][ukelele] on macOS and [Microsoft Keyboard Layout Creator][msklc] on Windows to edit the source files.
 
 
-[layout-preview]: ./.static/be-lat.png
+[layout-preview]: ./.static/Lacinka-BY-PL-US.png
 [releases]: https://github.com/aicantar/lacinka/releases
 [msklc]: https://support.microsoft.com/en-us/help/823010/the-microsoft-keyboard-layout-creator
 [ukelele]: http://software.sil.org/ukelele/
