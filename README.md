@@ -1,13 +1,31 @@
-# lacinka BY + PL + US
+# Belarusian Combined Keyboard Layouts
 
-A Belarusian Latin keyboard layout for Windows and Mac. The layout is based on the US-english with the addition of the belarusian and polish letters enabling a user to type in 3 languages without switching the layout. It is supposed to replace the english layout in your system.
+Belarusian keyboard layouts combined with other languages used by belarusians for Windows and MacOS. Additional letters can by typed by holding AltGr button (Option on mac or left Ctrl+Alt on Windows). One can type in 2 languages without switching keyboard layout. **Alt+Щ = Ў**
 
-## Layout preview
+## Layouts preview
 
-![Russian + BY.png](/asset/Russian-plus-BY.png)
+#### Russian + BY
+###### Based on russian, all the belarusian letters added.
+ 
+![Russian + BY](/asset/Russian-plus-BY.png)
+
+#### English + BY łacinka + PL
+
+###### Based on the US English, belarusian and polish letters adeed. Enables a user to type in 3 languages without switching the layout. It is supposed to replace the standard english layout in your system, so for Windows it installs with en-US locale.
+
+![English + BY łacinka + PL](/asset/English-plus-BY-lacinka-and-PL.png)
+
+
+#### Belarusian (Cyrillic) + RU
+###### Based on Belarusian, all the russian letters added.
+
+![Belarusian (Cyrillic) + RU](/asset/Belarusian-(Cyrillic)-plus-RU.png)
+
+#### Belarusian (Latin)
+###### Based on English, all the łacinka letters added. By [aicantar](https://github.com/aicantar/lacinka)
+
 ![Belarusian (Latin)](/asset/Belarusian-(Latin).png)
-![English + BY lacinka +PL](/asset/English-plus-BY-lacinka-and-PL.png)
-![Belarusian (Cyrillic) + RU.png](/asset/Belarusian-(Cyrillic)-plus-RU.png)
+
 <!--
 ## Installation
 
