@@ -4,8 +4,10 @@ A Belarusian Latin keyboard layout for Windows and Mac. The layout is based on t
 
 ## Layout preview
 
-![Layout preview][layout-preview]
-
+![Russian + BY.png](/asset/Russian-plus-BY.png)
+![Belarusian (Latin)](/asset/Belarusian-(Latin).png)
+![English + BY lacinka +PL](/asset/English-plus-BY-lacinka-and-PL.png)
+![Belarusian (Cyrillic) + RU.png](/asset/Belarusian-(Cyrillic)-plus-RU.png)
 <!--
 ## Installation
 
