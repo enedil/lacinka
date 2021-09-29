@@ -1,28 +1,30 @@
 # Belarusian Combined Keyboard Layouts
 
-Belarusian keyboard layouts combined with other languages used by belarusians for Windows and MacOS. Additional letters can by typed by holding AltGr button (Option on mac or left Ctrl+Alt on Windows). One can type in 2 languages without switching keyboard layout. **Alt+Щ = Ў**
+Belarusian keyboard layouts combined with other languages used by belarusians for Windows and MacOS. Additional letters can by typed by holding AltGr button (Option on mac or left Ctrl+Alt on Windows). One can type in 2 languages without switching keyboard layout: **Alt+S=Š**.
+
+[Website in russian](https://adisloom.github.io/belcombo/)
 
 ## Layouts preview
 
 #### Russian + BY
-###### Based on russian, all the belarusian letters added.
+###### Based on russian, all the belarusian letters added. [Download](https://github.com/adisloom/belcombo/releases)
  
 ![Russian + BY](/asset/Russian-plus-BY.png)
 
 #### English + BY łacinka + PL
 
-###### Based on the US English, belarusian and polish letters adeed. Enables a user to type in 3 languages without switching the layout. It is supposed to replace the standard english layout in your system, so for Windows it installs with en-US locale.
+###### Based on the US English, belarusian and polish letters adeed. Enables a user to type in 3 languages without switching the layout. It is supposed to replace the standard english layout in your system, so for Windows it installs with en-US locale. [Download](https://github.com/adisloom/belcombo/releases)
 
 ![English + BY łacinka + PL](/asset/English-plus-BY-lacinka-and-PL.png)
 
 
 #### Belarusian (Cyrillic) + RU
-###### Based on Belarusian, all the russian letters added.
+###### Based on Belarusian, all the russian letters added. [Download](https://github.com/adisloom/belcombo/releases)
 
 ![Belarusian (Cyrillic) + RU](/asset/Belarusian-(Cyrillic)-plus-RU.png)
 
 #### Belarusian (Latin)
-###### Based on English, all the łacinka letters added. By [aicantar](https://github.com/aicantar/lacinka)
+###### Based on English, all the łacinka letters added. [Download](https://github.com/adisloom/belcombo/releases), Originally by [aicantar](https://github.com/aicantar/lacinka)
 
 ![Belarusian (Latin)](/asset/Belarusian-(Latin).png)
 
